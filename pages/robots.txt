@@ -1,2 +1,3 @@
 User-agent: *
 
+Sitemap: https://universal-link-test-beryl.vercel.app/sitemap.xml
