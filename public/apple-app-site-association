@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9JA89QQLNQ.com.kurly.MarketKurly1",
+        "paths": [
+          "/main",
+          "/main/beauty",
+          "/categories/*",
+          "/collections/*",
+          "/goods/*"
+        ]
+      }
+    ]
+  }
+}

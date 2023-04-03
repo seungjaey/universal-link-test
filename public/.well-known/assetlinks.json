@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dbs.kurly.m2",
+      "sha256_cert_fingerprints": [
+        "EE:12:54:F3:AB:03:75:1A:62:5D:5D:6B:17:9B:9D:A3:D0:FD:B5:CA:DB:61:FD:A1:B2:AA:C1:7C:A9:43:5B:11"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dbs.kurly.m2.beta",
+      "sha256_cert_fingerprints": [
+        "EE:12:54:F3:AB:03:75:1A:62:5D:5D:6B:17:9B:9D:A3:D0:FD:B5:CA:DB:61:FD:A1:B2:AA:C1:7C:A9:43:5B:11"
+      ]
+    }
+  }
+]
