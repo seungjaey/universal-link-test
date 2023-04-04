@@ -5,18 +5,10 @@
       {
         "appID": "9DL55EF8D3.com.kurly.MarketKurly1",
         "paths": [
-          {
-            "/" : "/main/*"
-          },
-          {
-            "/" : "/goods/*"
-          },
-          {
-            "/" : "/collections/*"
-          },
-          {
-            "/" : "/categories/*"
-          }
+          "/main/*",
+          "/goods/*",
+          "/collections/*",
+          "/categories/*"
         ]
       }
     ]
