@@ -17,7 +17,7 @@ const nextConfig = {
         headers: [
           {
             key: 'Content-Type',
-            value: 'application/json',
+            value: 'application/octet-stream',
           },
         ],
       },

@@ -2,8 +2,14 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["9DL55EF8D3.com.kurly.MarketKurly1", "9DL55EF8D3.com.kurly.MarketKurly1.Beta"],
-        "components": []
+        "appIDs": [
+          "9DL55EF8D3.com.kurly.MarketKurly1", "9DL55EF8D3.com.kurly.MarketKurly1.Beta"],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL"
+          }
+        ]
       }
     ]
   }
