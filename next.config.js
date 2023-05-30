@@ -17,7 +17,16 @@ const nextConfig = {
         headers: [
           {
             key: 'Content-Type',
-            value: 'application/octet-stream',
+            value: 'application/json',
+          },
+        ],
+      },
+      {
+        source: '/apple-app-site-association',
+        headers: [
+          {
+            key: 'Content-Type',
+            value: 'application/json',
           },
         ],
       },
