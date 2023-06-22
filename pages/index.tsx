@@ -12,6 +12,7 @@ const HomePage = () => {
           </Link>
         </li>
         <li style={style}>
+          {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
           <a href="/goods/5063110">[2] 상품 상세 [5063110] 로 이동하기</a>
         </li>
         <li style={style}>
