@@ -7,6 +7,11 @@ const HomePage = () => {
     <div>
       <ul>
         <li style={style}>
+          <a href="intent://product?no=5079523#Intent;scheme=kurly;package=com.dbs.kurly.m2.beta;S.browser_fallback_url=https%3A%2F%2Fwww.kurly.com%2Fgoods%2F5079523;end">
+            AOS Intent
+          </a>
+        </li>
+        <li style={style}>
           <Link href="/goods/5063110" passHref prefetch={false}>
             [1] 상품 상세 [5063110] 로 이동하기
           </Link>
